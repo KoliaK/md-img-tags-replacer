@@ -5,7 +5,7 @@ import re
 MD_FILE = 'file.md' # ORIGINAL FILE
 OUTPUT_FILE = 'file_with_images.md' # FILE WITH TAGS REPLACED FOR IMAGES REFERENCE
 IMAGE_DIR = 'images' # FILE WITH IMAGES
-ALT_TEXT_FILE = 'alt_text.txt' # FILE WITH THE ALT TEXTS
+ALT_TEXT_FILE = 'alt_text.txt' # GETS ALT TEXTS FROM THIS FILE TO INSERT IN THE IMG REFERENCES
 # ---------------------
 
 def get_image_map(directory):
