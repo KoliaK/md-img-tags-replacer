@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# --- Script Outputs (img_becomes_tag.py) ---
+# Generated clean markdown with [IMG n] tags
+clean_file_with_tags.md
+
+# Extracted alt text backup
+backup_alt_text.txt
+
+# --- Script Outputs (tag_becomes_img.py) ---
+# Final markdown with images inserted
+file_with_images.md
