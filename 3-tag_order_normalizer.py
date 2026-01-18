@@ -1,6 +1,5 @@
 import re
 import os
-import shutil
 
 # --- Configuration ---
 INPUT_FILE = 'clean_file_with_tags.md'  # File with [IMG n] tags
